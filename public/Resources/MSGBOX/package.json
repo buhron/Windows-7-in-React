@@ -1,0 +1,25 @@
+{
+  "name": "msgbox",
+  "version": "1.0.0",
+  "description": "Message box for Win7React",
+  "main": "msgbox.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "react",
+    "tsx",
+    "ts",
+    "windows",
+    "win7"
+  ],
+  "author": "Win7React",
+  "license": "MIT",
+  "dependencies": {
+    "@replit/database": "^2.0.2",
+    "eslint": "^8.21.0",
+    "http": "^0.0.1-security",
+    "json": "^11.0.0",
+    "webpack": "^5.74.0"
+  }
+}
